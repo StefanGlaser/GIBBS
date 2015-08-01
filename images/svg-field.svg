@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1200"
+   height="750"
+   id="svg2">
+  <title
+     id="title4457">RoboCup 2D Simulation Soccer Pitch</title>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>RoboCup 2D Simulation Soccer Pitch</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:date>2. Aug 2015</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Stefan Glaser</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-302.36218)"
+     id="layer1">
+    <rect
+       width="1200"
+       height="750"
+       x="0"
+       y="302.36218"
+       id="rect3899"
+       style="fill:#1fa01f;fill-opacity:1;stroke:none" />
+    <rect
+       width="25"
+       height="146.39999"
+       x="50"
+       y="604.16217"
+       id="rect3977-9"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       width="25"
+       height="146.39999"
+       x="1125"
+       y="604.16217"
+       id="rect3977"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       d="m 75.75,338.11217 1048.5,0 0,678.50003 -1048.5,0 z"
+       id="path3087"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 600,338.36218 0,678.00002"
+       id="path3857"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 62.682805,34.891049 a 8.7258129,8.9856672 0 0 1 -7.79398,8.04788"
+       transform="matrix(1.1460251,0,0,1.1122923,13.114645,299.53893)"
+       id="path3863"
+       style="fill:none;stroke:#ffffff;stroke-width:1.32857084;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       d="m 54.645627,25.035381 a 8.726634,8.989254 0 0 1 8.038812,8.081698"
+       transform="matrix(1.1460251,0,0,1.1122923,13.363703,979.54358)"
+       id="path3863-6"
+       style="fill:none;stroke:#ffffff;stroke-width:1.32857084;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       d="M 45.318171,33.097888 A 8.7257738,9 0 0 1 53.12738,25.045117"
+       transform="matrix(1.1460251,0,0,1.1122923,1063.1146,979.55487)"
+       id="path3863-0"
+       style="fill:none;stroke:#ffffff;stroke-width:1.32857084;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       d="M 53.114211,42.943999 A 8.7257738,8.9904423 0 0 1 45.317225,34.89143"
+       transform="matrix(1.1460251,0,0,1.1122923,1063.1146,299.54424)"
+       id="path3863-67"
+       style="fill:none;stroke:#ffffff;stroke-width:1.32857084;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       d="m 502.5,407.5 a 80,80 0 1 1 0.001,0"
+       transform="matrix(1.134375,0,0,1.134375,29.976563,305.85437)"
+       id="path3897"
+       style="fill:none;stroke:#ffffff;stroke-width:1.32231402;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       d="m 75.75,586.51218 53.5,0 0,181.7 -53.5,0"
+       id="path3957"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 75.749991,476.51218 163.500009,0 0,401.7 -163.500009,0"
+       id="path3937"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 1124.25,476.51218 -163.5,0 0,401.7 163.5,0"
+       id="path3937-9"
+       style="fill:none;stroke:#ffffff;stroke-width:1.49999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 1124.25,586.51218 -53.5,0 0,181.7 53.5,0"
+       id="path3957-3"
+       style="fill:none;stroke:#ffffff;stroke-width:1.50000012;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 550.48633,263.48975 a 80,80 0 0 1 -0.0796,128.0801"
+       transform="matrix(1.134375,0,0,1.134375,-385.02344,305.85437)"
+       id="path3897-5"
+       style="fill:none;stroke:#ffffff;stroke-width:1.32231402;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       d="m 454.54701,391.53523 a 80,80 0 0 1 0.007,-128.07572"
+       transform="matrix(1.134375,0,0,1.134375,444.97656,305.85437)"
+       id="path3897-7"
+       style="fill:none;stroke:#ffffff;stroke-width:1.32231402;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       d="m 190,390 a 5,5 0 1 1 9e-5,0"
+       transform="matrix(0.39999303,0,0,0.39999303,109.00129,523.36486)"
+       id="path4495"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       d="m 190,390 a 5,5 0 1 1 9e-5,0"
+       transform="matrix(0.39999303,0,0,0.39999303,939.00129,523.36486)"
+       id="path4495-6"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       d="m 190,390 a 5,5 0 1 1 9e-5,0"
+       transform="matrix(0.39999303,0,0,0.39999303,524.00129,523.36486)"
+       id="path4495-4"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
