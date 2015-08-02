@@ -82,23 +82,26 @@ Repeat for all games you want to show on your web page.
    with these scripts). 
 
  - play.php is the main file that starts up the logplayer when invoked 
-   using a browser.  Copy this file into the desired directory.
+   using a browser. player_definitions.php and player-ajax.php are used
+   for general definitions and handling asynchroneous menu requests.
+   Copy this three files into the desired directory.
 
-   This file should be modified to include all the .replay files. If
-   you copied them into a different subdirectory, make sure to include
-   the correct path. See also online examples at
+   The player_definitions.php file should be modified to specify the
+   location of the replay files. If you copied them into a different
+   subdirectory, make sure to specify the correct path. See also online
+   examples at
    http://www.oliverobst.eu/research/robotics-gliders2012-simulation-league-robocup-team/robocup-2012
 
- - Copy the scripts directory and the *.css files. 
-   play.php includes 3 javascript files, and 2 CSS style sheets. All 3
-   javascript files are expected in a subdirectory "scripts". This
-   subdirectory should be in the same directory as play.php. The 2 CSS
-   files are expected to be in the same directory as play.php. 
+ - Copy the scripts directory and the logplay.css file. 
+   play.php includes two javascript files, and one CSS style sheet. All
+   two javascript files are expected in a subdirectory "scripts". This
+   subdirectory should be in the same directory as play.php. The CSS
+   file is expected to be in the same directory as play.php. 
 
  - Copy the images directory.
-   The style sheet jquery-ui.css expects some icons and graphics in
-   the "images" subdirectory (which again should be in the same
-   directory as play.php).
+   The style sheet expects some icons and graphics in the "images"
+   subdirectory (which again should be in the same directory as
+   play.php).
 
 
 3. PLAYING BACK

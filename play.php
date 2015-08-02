@@ -1,3 +1,15 @@
+<!-- 
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
 <?php
 header('Content-Type: text/html');
 
@@ -69,7 +81,7 @@ if (!file_exists(LOG_DIR)) {
 		<button class="playerBtn" onClick="End();" title="Jump to end"><span class="ui-icon ui-icon-jump-end"></span></button>
 	</div>
 	<div id="info_box">
-		powered by <a href="http://www.chaosscripting.net" target="_blank">chaosscripting.net</a> &amp; <a href="https://github.com/OliverObst/GIBBS" target="_blank">GIBBS</a>
+		powered by <a href="https://github.com/OliverObst/GIBBS" target="_blank">GIBBS</a>
 	</div>
 </div>
 </div>

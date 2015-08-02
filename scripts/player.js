@@ -1,7 +1,7 @@
 /*
  *	Robocup TXT player
- *	Copyright: Stefan Glaser, Edward Moore, Oliver Obst, Mikhail Prokopenko
- *	Date: Aug 2015
+ *	Copyright 2012: Edward Moore, Oliver Obst, Mikhail Prokopenko
+ *	Copyright 2015: Stefan Glaser
  *	
  *	A javascript program that will read a file on the server that has been processed by the rcg2replay converter.
 */

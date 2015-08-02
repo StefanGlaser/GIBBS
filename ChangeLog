@@ -1,3 +1,32 @@
+2015-08-01  Stefan Glaser <glaser.stefan@gmx.net>
+	
+	* play.php:
+	* player_definitions.php:
+	* player-ajax.php:
+	* scripts/player.js:
+	* logplay.css:
+	Created new html5-player.
+	This is a major change of the player and its related components.
+	Apart from the central rendering logic, almost everything was refactored.
+
+	* images/* :
+	* images/svg-field.svg:
+	* images/sg_icons.png:
+	Replaced all old images with two new ones.
+
+	* image_dev/sg_icons.svg:
+	* image_dev/svg-ink-field.svg:
+	Original Inkscape versions of the new images.
+
+	* replays/... :
+	Added a deeper folder structure to test new replay-menu.
+
+	* scripts/jquery-ui.js:
+	* images/jquery-ui.css:
+	* jquery-ui.css:
+	Removed. Not used any more.
+
+
 2013-05-05  Oliver Obst  <oliverobst@gmail.com>
 
 	* scripts/player.js:
